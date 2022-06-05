@@ -1,6 +1,3 @@
-# OSCNet
-【MICCAI 2022】Orientation-Shared Convolution Representation Model
-
 # Orientation-Shared Convolution Representation for CT Metal Artifact Learning (MICCAI2022)
 [Hong Wang](https://hongwang01.github.io/), Qi Xie, Yuexiang Li, Yawen Huang, [Deyu Meng](http://gr.xjtu.edu.cn/web/dymeng), [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)
 
