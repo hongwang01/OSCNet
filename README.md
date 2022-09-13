@@ -9,4 +9,5 @@ During X-ray computed tomography (CT) scanning, metallic implants carrying with 
 ## Motivation
 <div  align="center"><img src="https://github.com/hongwang01/hongwang01.github.io/blob/master/Figures/OSCNet_MICCAI2022.png" height="100%" width="100%" alt=""/></div>
 
-## Code is coming soon! Thanks.
+## Tips
+We are considering productizing this work, so we are sorry that we cannot release the code currently. Thanks.
