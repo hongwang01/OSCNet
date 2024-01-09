@@ -102,4 +102,4 @@ If helpful for your research, please cite our work:
 The resources of this project are for academic use only, not for any commercial purposes. Please contact us if necessary. 
 
 ## Contact
-If you have any question, please feel free to concat Hong Wang (Email: hongwang9209@hotmail.com)
+If you have any questions, please feel free to contact Hong Wang (Email: hongwang9209@hotmail.com)
